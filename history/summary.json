@@ -1,25 +1,5 @@
 [
   {
-    "name": "Renegis",
-    "url": "https://www.renegis.cz",
-    "icon": "https://favicons.githubusercontent.com/www.renegis.cz",
-    "slug": "renegis",
-    "status": "down",
-    "uptime": "7.45%",
-    "uptimeDay": "7.45%",
-    "uptimeWeek": "7.45%",
-    "uptimeMonth": "7.45%",
-    "uptimeYear": "7.45%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-13": 0
-    }
-  },
-  {
     "name": "Office",
     "url": "https://office.roubicek.net",
     "icon": "https://favicons.githubusercontent.com/office.roubicek.net",
@@ -30,49 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 772,
-    "timeWeek": 772,
-    "timeMonth": 772,
-    "timeYear": 772,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Roubicek.net",
-    "url": "https://www.roubicek.net",
-    "icon": "https://favicons.githubusercontent.com/www.roubicek.net",
-    "slug": "roubicek-net",
-    "status": "down",
-    "uptime": "8.30%",
-    "uptimeDay": "8.30%",
-    "uptimeWeek": "8.30%",
-    "uptimeMonth": "8.30%",
-    "uptimeYear": "8.30%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
-    "dailyMinutesDown": {
-      "2022-02-13": 0
-    }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 747,
+    "timeDay": 747,
+    "timeWeek": 747,
+    "timeMonth": 747,
+    "timeYear": 747,
     "dailyMinutesDown": {}
   }
 ]
