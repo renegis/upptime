@@ -7,8 +7,8 @@ sites:
     url: https://www.renegis.cz
   - name: Office
     url: https://office.roubicek.net
-  #- name: Roubicek.net
-  #  url: https://www.roubicek.net
+  - name: Roubicek.net
+    url: https://www.roubicek.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
