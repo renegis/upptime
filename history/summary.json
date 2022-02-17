@@ -4,19 +4,19 @@
     "url": "https://www.renegis.cz",
     "icon": "https://favicons.githubusercontent.com/www.renegis.cz",
     "slug": "renegis",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 679,
-    "timeDay": 679,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "status": "up",
+    "uptime": "70.02%",
+    "uptimeDay": "68.89%",
+    "uptimeWeek": "70.02%",
+    "uptimeMonth": "70.02%",
+    "uptimeYear": "70.02%",
+    "time": 725,
+    "timeDay": 695,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2022-02-17": 1
+      "2022-02-17": 448
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://office.roubicek.net",
     "icon": "https://favicons.githubusercontent.com/office.roubicek.net",
     "slug": "office",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 650,
-    "timeDay": 588,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "92.16%",
+    "uptimeDay": "68.92%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "92.16%",
+    "time": 667,
+    "timeDay": 655,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2022-02-17": 1
+      "2022-02-17": 448
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.roubicek.net",
     "icon": "https://favicons.githubusercontent.com/www.roubicek.net",
     "slug": "roubicek-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 504,
-    "timeDay": 415,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "69.99%",
+    "uptimeDay": "68.95%",
+    "uptimeWeek": "69.99%",
+    "uptimeMonth": "69.99%",
+    "uptimeYear": "69.99%",
+    "time": 565,
+    "timeDay": 587,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-02-17": 0
+      "2022-02-17": 447
     }
   }
 ]
