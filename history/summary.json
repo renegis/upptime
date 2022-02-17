@@ -4,53 +4,59 @@
     "url": "https://www.renegis.cz",
     "icon": "https://favicons.githubusercontent.com/www.renegis.cz",
     "slug": "renegis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 679,
     "timeDay": 679,
     "timeWeek": 679,
     "timeMonth": 679,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "Office",
     "url": "https://office.roubicek.net",
     "icon": "https://favicons.githubusercontent.com/office.roubicek.net",
     "slug": "office",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 650,
     "timeDay": 588,
     "timeWeek": 650,
     "timeMonth": 650,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "Roubicek.net",
     "url": "https://www.roubicek.net",
     "icon": "https://favicons.githubusercontent.com/www.roubicek.net",
     "slug": "roubicek-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 504,
     "timeDay": 415,
     "timeWeek": 504,
     "timeMonth": 504,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   }
 ]
