@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "98.66%",
-    "time": 628,
-    "timeDay": 662,
-    "timeWeek": 598,
-    "timeMonth": 551,
-    "timeYear": 627,
+    "uptimeYear": "98.74%",
+    "time": 627,
+    "timeDay": 412,
+    "timeWeek": 549,
+    "timeMonth": 547,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2023-02-01": 150,
       "2023-01-20": 18,
@@ -31,8 +31,7 @@
       "2022-06-30": 64,
       "2022-06-21": 22,
       "2022-06-16": 16,
-      "2022-06-15": 20,
-      "2022-02-18": 17
+      "2022-06-15": 20
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.04%",
     "time": 527,
-    "timeDay": 661,
-    "timeWeek": 549,
-    "timeMonth": 503,
-    "timeYear": 524,
+    "timeDay": 418,
+    "timeWeek": 525,
+    "timeMonth": 502,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2023-02-01": 150,
       "2023-01-20": 17,
@@ -70,8 +69,7 @@
       "2022-09-28": 1139,
       "2022-09-27": 1069,
       "2022-06-02": 67,
-      "2022-06-01": 9,
-      "2022-02-18": 17
+      "2022-06-01": 9
     }
   },
   {
@@ -80,16 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "96.28%",
+    "uptimeYear": "96.36%",
     "time": 465,
-    "timeDay": 542,
-    "timeWeek": 483,
+    "timeDay": 339,
+    "timeWeek": 451,
     "timeMonth": 424,
-    "timeYear": 465,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2023-02-01": 149,
       "2023-01-20": 17,
@@ -113,8 +111,7 @@
       "2022-09-28": 1139,
       "2022-09-27": 1069,
       "2022-06-02": 67,
-      "2022-06-01": 8,
-      "2022-02-18": 16
+      "2022-06-01": 8
     }
   }
 ]
