@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "96.81%",
-    "time": 642,
-    "timeDay": 416,
-    "timeWeek": 559,
-    "timeMonth": 573,
+    "time": 641,
+    "timeDay": 539,
+    "timeWeek": 533,
+    "timeMonth": 570,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -39,8 +39,7 @@
       "2022-11-09": 40,
       "2022-11-08": 55,
       "2022-10-31": 28,
-      "2022-09-28": 1139,
-      "2022-09-27": 1141
+      "2022-09-28": 1139
     }
   },
   {
@@ -49,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "96.75%",
     "time": 510,
-    "timeDay": 394,
-    "timeWeek": 536,
-    "timeMonth": 532,
+    "timeDay": 483,
+    "timeWeek": 512,
+    "timeMonth": 529,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -81,8 +80,7 @@
       "2022-11-05": 1260,
       "2022-10-31": 28,
       "2022-10-21": 38,
-      "2022-09-28": 1139,
-      "2022-09-27": 1069
+      "2022-09-28": 1139
     }
   },
   {
@@ -97,10 +95,10 @@
     "uptimeMonth": "96.75%",
     "uptimeYear": "94.42%",
     "time": 471,
-    "timeDay": 344,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 479,
+    "timeDay": 447,
+    "timeWeek": 444,
+    "timeMonth": 460,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 290,
@@ -134,8 +132,7 @@
       "2022-11-05": 1260,
       "2022-10-31": 27,
       "2022-10-21": 37,
-      "2022-09-28": 1139,
-      "2022-09-27": 1069
+      "2022-09-28": 1139
     }
   }
 ]
