@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.25%",
-    "time": 633,
-    "timeDay": 603,
-    "timeWeek": 557,
-    "timeMonth": 552,
-    "timeYear": 630,
+    "time": 632,
+    "timeDay": 446,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 291,
@@ -46,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.43%",
     "time": 509,
-    "timeDay": 587,
-    "timeWeek": 541,
-    "timeMonth": 518,
+    "timeDay": 400,
+    "timeWeek": 523,
+    "timeMonth": 510,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -73,8 +73,7 @@
       "2022-11-10": 1346,
       "2022-11-09": 1428,
       "2022-11-08": 1377,
-      "2022-11-07": 1440,
-      "2022-11-06": 1387
+      "2022-11-07": 1440
     }
   },
   {
@@ -83,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.86%",
+    "uptimeYear": "95.11%",
     "time": 471,
-    "timeDay": 525,
-    "timeWeek": 472,
-    "timeMonth": 456,
+    "timeDay": 346,
+    "timeWeek": 458,
+    "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -121,8 +120,7 @@
       "2022-11-10": 1345,
       "2022-11-09": 1427,
       "2022-11-08": 1375,
-      "2022-11-07": 1440,
-      "2022-11-06": 1385
+      "2022-11-07": 1440
     }
   }
 ]
