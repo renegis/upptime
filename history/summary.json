@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.25%",
     "time": 633,
-    "timeDay": 586,
-    "timeWeek": 555,
-    "timeMonth": 549,
-    "timeYear": 633,
+    "timeDay": 575,
+    "timeWeek": 560,
+    "timeMonth": 547,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 291,
@@ -36,8 +36,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 575,
-      "2022-11-09": 40,
-      "2022-11-08": 55
+      "2022-11-09": 40
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.97%",
     "time": 509,
-    "timeDay": 466,
-    "timeWeek": 514,
-    "timeMonth": 511,
+    "timeDay": 507,
+    "timeWeek": 515,
+    "timeMonth": 509,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -71,8 +70,7 @@
       "2022-11-12": 1419,
       "2022-11-11": 1400,
       "2022-11-10": 1346,
-      "2022-11-09": 1428,
-      "2022-11-08": 1377
+      "2022-11-09": 1428
     }
   },
   {
@@ -81,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.37%",
+    "uptimeYear": "95.65%",
     "time": 471,
-    "timeDay": 406,
+    "timeDay": 421,
     "timeWeek": 450,
-    "timeMonth": 450,
+    "timeMonth": 446,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -117,8 +115,7 @@
       "2022-11-12": 1419,
       "2022-11-11": 1399,
       "2022-11-10": 1345,
-      "2022-11-09": 1427,
-      "2022-11-08": 1375
+      "2022-11-09": 1427
     }
   }
 ]
