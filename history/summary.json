@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.25%",
+    "uptimeYear": "97.26%",
     "time": 633,
-    "timeDay": 575,
-    "timeWeek": 560,
-    "timeMonth": 547,
-    "timeYear": 634,
+    "timeDay": 676,
+    "timeWeek": 574,
+    "timeMonth": 555,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 291,
@@ -35,8 +35,7 @@
       "2023-01-02": 101,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 575,
-      "2022-11-09": 40
+      "2022-12-30": 575
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "98.23%",
     "time": 509,
-    "timeDay": 507,
-    "timeWeek": 515,
-    "timeMonth": 509,
-    "timeYear": 508,
+    "timeDay": 599,
+    "timeWeek": 516,
+    "timeMonth": 515,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 290,
@@ -69,8 +68,7 @@
       "2022-11-13": 1341,
       "2022-11-12": 1419,
       "2022-11-11": 1400,
-      "2022-11-10": 1346,
-      "2022-11-09": 1428
+      "2022-11-10": 1346
     }
   },
   {
@@ -83,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.65%",
+    "uptimeYear": "95.91%",
     "time": 471,
-    "timeDay": 421,
-    "timeWeek": 450,
-    "timeMonth": 446,
-    "timeYear": 482,
+    "timeDay": 534,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 290,
@@ -114,8 +112,7 @@
       "2022-11-13": 1340,
       "2022-11-12": 1419,
       "2022-11-11": 1399,
-      "2022-11-10": 1345,
-      "2022-11-09": 1427
+      "2022-11-10": 1345
     }
   }
 ]
