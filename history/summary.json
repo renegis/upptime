@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.26%",
-    "time": 633,
-    "timeDay": 676,
-    "timeWeek": 574,
-    "timeMonth": 555,
-    "timeYear": 636,
+    "uptimeYear": "97.27%",
+    "time": 632,
+    "timeDay": 687,
+    "timeWeek": 576,
+    "timeMonth": 560,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 291,
@@ -48,12 +48,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.23%",
+    "uptimeYear": "98.51%",
     "time": 509,
-    "timeDay": 599,
-    "timeWeek": 516,
-    "timeMonth": 515,
-    "timeYear": 509,
+    "timeDay": 619,
+    "timeWeek": 518,
+    "timeMonth": 519,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 290,
@@ -67,8 +67,7 @@
       "2022-11-22": 308,
       "2022-11-13": 1341,
       "2022-11-12": 1419,
-      "2022-11-11": 1400,
-      "2022-11-10": 1346
+      "2022-11-11": 1400
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.91%",
-    "time": 471,
-    "timeDay": 534,
-    "timeWeek": 451,
-    "timeMonth": 451,
+    "uptimeYear": "96.18%",
+    "time": 472,
+    "timeDay": 530,
+    "timeWeek": 450,
+    "timeMonth": 454,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -111,8 +110,7 @@
       "2022-11-22": 308,
       "2022-11-13": 1340,
       "2022-11-12": 1419,
-      "2022-11-11": 1399,
-      "2022-11-10": 1345
+      "2022-11-11": 1399
     }
   }
 ]
