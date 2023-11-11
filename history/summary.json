@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.27%",
-    "time": 632,
-    "timeDay": 687,
-    "timeWeek": 576,
-    "timeMonth": 560,
+    "time": 631,
+    "timeDay": 412,
+    "timeWeek": 569,
+    "timeMonth": 556,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -48,11 +48,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.78%",
     "time": 509,
-    "timeDay": 619,
-    "timeWeek": 518,
-    "timeMonth": 519,
+    "timeDay": 387,
+    "timeWeek": 509,
+    "timeMonth": 515,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
@@ -66,8 +66,7 @@
       "2023-01-18": 342,
       "2022-11-22": 308,
       "2022-11-13": 1341,
-      "2022-11-12": 1419,
-      "2022-11-11": 1400
+      "2022-11-12": 1419
     }
   },
   {
@@ -80,12 +79,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.18%",
-    "time": 472,
-    "timeDay": 530,
-    "timeWeek": 450,
-    "timeMonth": 454,
-    "timeYear": 483,
+    "uptimeYear": "96.45%",
+    "time": 471,
+    "timeDay": 339,
+    "timeWeek": 443,
+    "timeMonth": 450,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2023-09-17": 1108,
       "2023-09-16": 290,
@@ -109,8 +108,7 @@
       "2022-12-30": 575,
       "2022-11-22": 308,
       "2022-11-13": 1340,
-      "2022-11-12": 1419,
-      "2022-11-11": 1399
+      "2022-11-12": 1419
     }
   }
 ]
