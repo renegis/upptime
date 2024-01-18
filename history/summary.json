@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "down",
-    "uptime": "95.29%",
+    "uptime": "95.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.40%",
-    "uptimeYear": "92.22%",
+    "uptimeMonth": "69.11%",
+    "uptimeYear": "91.94%",
     "time": 691,
-    "timeDay": 545,
-    "timeWeek": 640,
-    "timeMonth": 572,
+    "timeDay": 512,
+    "timeWeek": 601,
+    "timeMonth": 575,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-01-17": 75,
+      "2024-01-18": 74,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -56,8 +57,7 @@
       "2023-04-13": 131,
       "2023-03-07": 32,
       "2023-02-01": 150,
-      "2023-01-20": 18,
-      "2023-01-18": 342
+      "2023-01-20": 18
     }
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.53%",
     "time": 509,
-    "timeDay": 420,
-    "timeWeek": 497,
-    "timeMonth": 508,
+    "timeDay": 475,
+    "timeWeek": 481,
+    "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2023-12-23": 106,
@@ -87,8 +87,7 @@
       "2023-04-13": 131,
       "2023-03-07": 32,
       "2023-02-01": 150,
-      "2023-01-20": 17,
-      "2023-01-18": 342
+      "2023-01-20": 17
     }
   },
   {
@@ -97,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "down",
-    "uptime": "94.05%",
+    "uptime": "93.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.41%",
-    "uptimeYear": "92.22%",
+    "uptimeMonth": "69.12%",
+    "uptimeYear": "91.94%",
     "time": 517,
-    "timeDay": 459,
-    "timeWeek": 554,
-    "timeMonth": 468,
-    "timeYear": 535,
+    "timeDay": 496,
+    "timeWeek": 525,
+    "timeMonth": 473,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-01-17": 75,
+      "2024-01-18": 74,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -148,8 +148,7 @@
       "2023-04-13": 130,
       "2023-03-07": 31,
       "2023-02-01": 149,
-      "2023-01-20": 17,
-      "2023-01-18": 341
+      "2023-01-20": 17
     }
   }
 ]
