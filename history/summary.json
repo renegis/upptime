@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "90.20%",
+    "uptime": "90.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "78.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "79.09%",
     "time": 682,
-    "timeDay": 562,
+    "timeDay": 447,
     "timeWeek": 495,
-    "timeMonth": 608,
-    "timeYear": 714,
+    "timeMonth": 512,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2024-05-02": 147,
       "2024-03-27": 25,
@@ -99,8 +99,7 @@
       "2023-06-08": 646,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
-      "2023-06-05": 1440,
-      "2023-06-04": 1440
+      "2023-06-05": 1440
     }
   },
   {
@@ -112,12 +111,12 @@
     "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 528,
-    "timeDay": 735,
-    "timeWeek": 679,
-    "timeMonth": 668,
+    "time": 529,
+    "timeDay": 659,
+    "timeWeek": 681,
+    "timeMonth": 666,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2024-05-02": 98,
@@ -139,16 +138,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "89.17%",
+    "uptime": "89.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "78.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "79.12%",
     "time": 528,
-    "timeDay": 584,
+    "timeDay": 402,
     "timeWeek": 450,
-    "timeMonth": 438,
-    "timeYear": 549,
+    "timeMonth": 426,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-05-02": 27,
       "2024-03-27": 24,
@@ -233,8 +232,7 @@
       "2023-06-08": 646,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
-      "2023-06-05": 1440,
-      "2023-06-04": 1440
+      "2023-06-05": 1440
     }
   }
 ]
