@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "90.21%",
+    "uptime": "90.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.09%",
+    "uptimeYear": "79.37%",
     "time": 682,
-    "timeDay": 447,
-    "timeWeek": 495,
-    "timeMonth": 512,
-    "timeYear": 698,
+    "timeDay": 456,
+    "timeWeek": 501,
+    "timeMonth": 511,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-05-02": 147,
       "2024-03-27": 25,
@@ -98,8 +98,7 @@
       "2023-06-17": 18,
       "2023-06-08": 646,
       "2023-06-07": 1440,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   },
   {
@@ -108,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 529,
-    "timeDay": 659,
-    "timeWeek": 681,
-    "timeMonth": 666,
+    "timeDay": 680,
+    "timeWeek": 688,
+    "timeMonth": 667,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2024-05-02": 98,
@@ -138,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "89.19%",
+    "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.12%",
+    "uptimeYear": "79.39%",
     "time": 528,
-    "timeDay": 402,
-    "timeWeek": 450,
+    "timeDay": 353,
+    "timeWeek": 445,
     "timeMonth": 426,
-    "timeYear": 539,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2024-05-02": 27,
       "2024-03-27": 24,
@@ -231,8 +230,7 @@
       "2023-06-17": 17,
       "2023-06-08": 646,
       "2023-06-07": 1440,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   }
 ]
