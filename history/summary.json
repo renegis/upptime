@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.04%",
+    "uptime": "89.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.41%",
-    "time": 732,
-    "timeDay": 770,
-    "timeWeek": 645,
-    "timeMonth": 604,
-    "timeYear": 714,
+    "uptimeYear": "75.68%",
+    "time": 726,
+    "timeDay": 529,
+    "timeWeek": 639,
+    "timeMonth": 600,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2024-10-04": 31,
       "2024-08-30": 441,
@@ -112,8 +112,7 @@
       "2024-01-08": 389,
       "2023-12-23": 107,
       "2023-12-02": 118,
-      "2023-11-28": 446,
-      "2023-11-27": 1440
+      "2023-11-28": 446
     }
   },
   {
@@ -122,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 588,
-    "timeDay": 739,
-    "timeWeek": 813,
-    "timeMonth": 743,
+    "timeDay": 680,
+    "timeWeek": 807,
+    "timeMonth": 737,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2024-10-04": 30,
@@ -154,16 +153,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.19%",
+    "uptime": "88.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.43%",
+    "uptimeYear": "75.71%",
     "time": 557,
-    "timeDay": 567,
-    "timeWeek": 504,
-    "timeMonth": 464,
-    "timeYear": 534,
+    "timeDay": 443,
+    "timeWeek": 482,
+    "timeMonth": 461,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2024-10-04": 30,
       "2024-08-30": 441,
@@ -261,8 +260,7 @@
       "2024-01-08": 387,
       "2023-12-23": 106,
       "2023-12-02": 116,
-      "2023-11-28": 445,
-      "2023-11-27": 1440
+      "2023-11-28": 445
     }
   }
 ]
