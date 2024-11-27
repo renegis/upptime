@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.05%",
+    "uptime": "89.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.68%",
-    "time": 726,
-    "timeDay": 529,
-    "timeWeek": 639,
-    "timeMonth": 600,
-    "timeYear": 706,
+    "uptimeYear": "75.96%",
+    "time": 721,
+    "timeDay": 469,
+    "timeWeek": 606,
+    "timeMonth": 586,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2024-10-04": 31,
       "2024-08-30": 441,
@@ -111,8 +111,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 389,
       "2023-12-23": 107,
-      "2023-12-02": 118,
-      "2023-11-28": 446
+      "2023-12-02": 118
     }
   },
   {
@@ -127,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 588,
-    "timeDay": 680,
-    "timeWeek": 807,
-    "timeMonth": 737,
+    "timeDay": 663,
+    "timeWeek": 767,
+    "timeMonth": 733,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2024-10-04": 30,
@@ -143,8 +142,7 @@
       "2024-02-26": 30,
       "2024-02-19": 206,
       "2023-12-23": 106,
-      "2023-12-02": 117,
-      "2023-11-28": 137
+      "2023-12-02": 117
     }
   },
   {
@@ -153,16 +151,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.20%",
+    "uptime": "88.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.71%",
+    "uptimeYear": "75.98%",
     "time": 557,
-    "timeDay": 443,
-    "timeWeek": 482,
-    "timeMonth": 461,
-    "timeYear": 530,
+    "timeDay": 363,
+    "timeWeek": 451,
+    "timeMonth": 455,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2024-10-04": 30,
       "2024-08-30": 441,
@@ -259,8 +257,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 387,
       "2023-12-23": 106,
-      "2023-12-02": 116,
-      "2023-11-28": 445
+      "2023-12-02": 116
     }
   }
 ]
