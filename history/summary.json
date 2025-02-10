@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.59%",
+    "uptime": "89.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.93%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "84.31%",
+    "uptimeYear": "84.58%",
     "time": 718,
-    "timeDay": 437,
-    "timeWeek": 516,
-    "timeMonth": 554,
-    "timeYear": 686,
+    "timeDay": 712,
+    "timeWeek": 542,
+    "timeMonth": 552,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -78,8 +78,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -88,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.93%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.92%",
     "time": 617,
-    "timeDay": 661,
-    "timeWeek": 723,
-    "timeMonth": 700,
+    "timeDay": 759,
+    "timeWeek": 724,
+    "timeMonth": 701,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -121,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.81%",
+    "uptime": "88.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.94%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "84.33%",
+    "uptimeYear": "84.60%",
     "time": 558,
-    "timeDay": 353,
-    "timeWeek": 479,
-    "timeMonth": 478,
+    "timeDay": 515,
+    "timeWeek": 481,
+    "timeMonth": 481,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -194,8 +193,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   }
 ]
