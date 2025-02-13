@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.62%",
+    "uptime": "89.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.93%",
+    "uptimeWeek": "78.27%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "85.13%",
+    "uptimeYear": "85.40%",
     "time": 719,
-    "timeDay": 482,
-    "timeWeek": 588,
-    "timeMonth": 556,
-    "timeYear": 686,
+    "timeDay": 741,
+    "timeWeek": 609,
+    "timeMonth": 558,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -75,8 +75,7 @@
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   },
   {
@@ -87,14 +86,14 @@
     "status": "up",
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.93%",
+    "uptimeWeek": "78.27%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.92%",
-    "time": 617,
-    "timeDay": 625,
-    "timeWeek": 713,
-    "timeMonth": 697,
-    "timeYear": 664,
+    "time": 618,
+    "timeDay": 767,
+    "timeWeek": 721,
+    "timeMonth": 698,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -118,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.84%",
+    "uptime": "88.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.94%",
+    "uptimeWeek": "78.27%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "85.15%",
+    "uptimeYear": "85.43%",
     "time": 558,
-    "timeDay": 373,
-    "timeWeek": 455,
-    "timeMonth": 473,
-    "timeYear": 512,
+    "timeDay": 567,
+    "timeWeek": 471,
+    "timeMonth": 472,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -188,8 +187,7 @@
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   }
 ]
