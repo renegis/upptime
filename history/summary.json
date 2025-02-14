@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.63%",
+    "uptime": "89.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.27%",
+    "uptimeWeek": "92.55%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "85.40%",
+    "uptimeYear": "85.68%",
     "time": 719,
-    "timeDay": 741,
-    "timeWeek": 609,
-    "timeMonth": 558,
+    "timeDay": 589,
+    "timeWeek": 607,
+    "timeMonth": 561,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -74,8 +74,7 @@
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   },
   {
@@ -86,14 +85,14 @@
     "status": "up",
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.27%",
+    "uptimeWeek": "92.55%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.92%",
     "time": 618,
-    "timeDay": 767,
-    "timeWeek": 721,
-    "timeMonth": 698,
-    "timeYear": 665,
+    "timeDay": 772,
+    "timeWeek": 727,
+    "timeMonth": 700,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -117,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.85%",
+    "uptime": "88.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.27%",
+    "uptimeWeek": "92.55%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "85.43%",
-    "time": 558,
-    "timeDay": 567,
-    "timeWeek": 471,
-    "timeMonth": 472,
+    "uptimeYear": "85.70%",
+    "time": 552,
+    "timeDay": 601,
+    "timeWeek": 487,
+    "timeMonth": 479,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -186,8 +185,7 @@
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   }
 ]
