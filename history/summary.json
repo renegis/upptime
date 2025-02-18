@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.67%",
+    "uptime": "89.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "86.50%",
+    "uptimeYear": "86.77%",
     "time": 718,
-    "timeDay": 403,
-    "timeWeek": 566,
-    "timeMonth": 549,
+    "timeDay": 562,
+    "timeWeek": 541,
+    "timeMonth": 552,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -70,8 +70,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -80,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.92%",
     "time": 620,
-    "timeDay": 597,
+    "timeDay": 704,
     "timeWeek": 697,
-    "timeMonth": 696,
-    "timeYear": 668,
+    "timeMonth": 698,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -103,8 +102,7 @@
       "2024-06-05": 635,
       "2024-05-02": 98,
       "2024-03-27": 24,
-      "2024-02-26": 30,
-      "2024-02-19": 206
+      "2024-02-26": 30
     }
   },
   {
@@ -113,14 +111,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.89%",
+    "uptime": "88.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "86.52%",
-    "time": 542,
-    "timeDay": 411,
-    "timeWeek": 473,
+    "uptimeYear": "86.80%",
+    "time": 538,
+    "timeDay": 405,
+    "timeWeek": 475,
     "timeMonth": 478,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -178,8 +176,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
