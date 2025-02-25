@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.74%",
+    "uptime": "89.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "88.42%",
+    "uptimeYear": "88.69%",
     "time": 717,
-    "timeDay": 563,
-    "timeWeek": 545,
-    "timeMonth": 566,
+    "timeDay": 476,
+    "timeWeek": 533,
+    "timeMonth": 556,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -63,8 +63,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -73,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.96%",
     "time": 622,
-    "timeDay": 729,
-    "timeWeek": 720,
-    "timeMonth": 714,
-    "timeYear": 673,
+    "timeDay": 644,
+    "timeWeek": 711,
+    "timeMonth": 710,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -95,8 +94,7 @@
       "2024-06-06": 1133,
       "2024-06-05": 635,
       "2024-05-02": 98,
-      "2024-03-27": 24,
-      "2024-02-26": 30
+      "2024-03-27": 24
     }
   },
   {
@@ -105,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "88.96%",
+    "uptime": "88.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "88.44%",
-    "time": 519,
-    "timeDay": 611,
-    "timeWeek": 459,
-    "timeMonth": 485,
-    "timeYear": 512,
+    "uptimeYear": "88.71%",
+    "time": 515,
+    "timeDay": 343,
+    "timeWeek": 450,
+    "timeMonth": 477,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -163,8 +161,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   }
 ]
