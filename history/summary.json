@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.77%",
+    "uptime": "89.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "89.51%",
+    "uptimeYear": "90.06%",
     "time": 717,
-    "timeDay": 525,
-    "timeWeek": 522,
-    "timeMonth": 548,
+    "timeDay": 467,
+    "timeWeek": 516,
+    "timeMonth": 539,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -59,8 +59,7 @@
       "2024-03-05": 1340,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -75,10 +74,10 @@
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.96%",
     "time": 623,
-    "timeDay": 719,
-    "timeWeek": 701,
-    "timeMonth": 708,
-    "timeYear": 675,
+    "timeDay": 636,
+    "timeWeek": 695,
+    "timeMonth": 705,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -100,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "89.00%",
+    "uptime": "89.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "89.54%",
+    "uptimeYear": "90.09%",
     "time": 509,
-    "timeDay": 430,
-    "timeWeek": 453,
-    "timeMonth": 470,
+    "timeDay": 364,
+    "timeWeek": 448,
+    "timeMonth": 461,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -154,8 +153,7 @@
       "2024-03-05": 1340,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
