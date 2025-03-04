@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "89.80%",
+    "uptime": "89.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "90.61%",
+    "uptimeYear": "90.88%",
     "time": 717,
-    "timeDay": 652,
+    "timeDay": 474,
     "timeWeek": 533,
-    "timeMonth": 547,
-    "timeYear": 684,
+    "timeMonth": 545,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -56,8 +56,7 @@
       "2024-06-05": 636,
       "2024-05-02": 147,
       "2024-03-27": 25,
-      "2024-03-05": 1340,
-      "2024-03-04": 1440
+      "2024-03-05": 1340
     }
   },
   {
@@ -66,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.roubicek.net.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "98.96%",
     "time": 624,
-    "timeDay": 717,
-    "timeWeek": 697,
-    "timeMonth": 709,
+    "timeDay": 673,
+    "timeWeek": 701,
+    "timeMonth": 705,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2025-02-07": 849,
@@ -97,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "89.03%",
+    "uptime": "89.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "90.63%",
+    "uptimeYear": "90.91%",
     "time": 509,
-    "timeDay": 557,
-    "timeWeek": 447,
-    "timeMonth": 464,
-    "timeYear": 510,
+    "timeDay": 413,
+    "timeWeek": 457,
+    "timeMonth": 462,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-02-07": 849,
       "2025-02-06": 1440,
@@ -148,8 +147,7 @@
       "2024-06-05": 635,
       "2024-05-02": 27,
       "2024-03-27": 24,
-      "2024-03-05": 1340,
-      "2024-03-04": 1440
+      "2024-03-05": 1340
     }
   }
 ]
