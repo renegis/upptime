@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "91.41%",
-    "time": 647,
-    "timeDay": 508,
-    "timeWeek": 523,
-    "timeMonth": 571,
+    "time": 646,
+    "timeDay": 424,
+    "timeWeek": 495,
+    "timeMonth": 569,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-05-11": 15,
@@ -56,8 +56,7 @@
       "2024-08-02": 451,
       "2024-06-29": 25,
       "2024-06-21": 223,
-      "2024-06-06": 1133,
-      "2024-06-05": 636
+      "2024-06-06": 1133
     }
   },
   {
@@ -71,9 +70,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
-    "time": 672,
-    "timeDay": 674,
-    "timeWeek": 702,
+    "time": 673,
+    "timeDay": 660,
+    "timeWeek": 695,
     "timeMonth": 736,
     "timeYear": 724,
     "dailyMinutesDown": {
@@ -88,8 +87,7 @@
       "2024-08-29": 20,
       "2024-06-29": 24,
       "2024-06-21": 223,
-      "2024-06-06": 1133,
-      "2024-06-05": 635
+      "2024-06-06": 1133
     }
   },
   {
@@ -98,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.41%",
     "time": 519,
-    "timeDay": 386,
-    "timeWeek": 441,
-    "timeMonth": 479,
-    "timeYear": 543,
+    "timeDay": 410,
+    "timeWeek": 420,
+    "timeMonth": 480,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2025-04-25": 16,
       "2025-03-28": 17,
@@ -148,8 +146,7 @@
       "2024-08-02": 451,
       "2024-06-29": 24,
       "2024-06-21": 221,
-      "2024-06-06": 1133,
-      "2024-06-05": 635
+      "2024-06-06": 1133
     }
   }
 ]
