@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "down",
-    "uptime": "89.69%",
+    "uptime": "89.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.75%",
-    "uptimeYear": "91.20%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "90.92%",
     "time": 642,
-    "timeDay": 827,
-    "timeWeek": 855,
-    "timeMonth": 1883,
+    "timeDay": 754,
+    "timeWeek": 846,
+    "timeMonth": 1739,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2025-12-06": 111,
+      "2025-12-07": 126,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -56,8 +57,7 @@
       "2025-03-27": 40,
       "2025-02-07": 849,
       "2025-02-06": 1440,
-      "2025-02-05": 944,
-      "2024-12-07": 20
+      "2025-02-05": 944
     }
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 732,
-    "timeDay": 706,
-    "timeWeek": 737,
-    "timeMonth": 739,
+    "timeDay": 771,
+    "timeWeek": 747,
+    "timeMonth": 743,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2025-10-08": 46,
@@ -85,8 +85,7 @@
       "2025-03-27": 40,
       "2025-02-07": 849,
       "2025-02-06": 1440,
-      "2025-02-05": 944,
-      "2024-12-07": 20
+      "2025-02-05": 944
     }
   },
   {
@@ -95,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "down",
-    "uptime": "89.07%",
+    "uptime": "89.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.75%",
-    "uptimeYear": "91.20%",
-    "time": 531,
-    "timeDay": 699,
-    "timeWeek": 674,
-    "timeMonth": 1314,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "90.93%",
+    "time": 532,
+    "timeDay": 615,
+    "timeWeek": 665,
+    "timeMonth": 1199,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-12-06": 111,
+      "2025-12-07": 126,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -145,8 +145,7 @@
       "2025-03-27": 39,
       "2025-02-07": 849,
       "2025-02-06": 1440,
-      "2025-02-05": 943,
-      "2024-12-07": 20
+      "2025-02-05": 943
     }
   }
 ]
