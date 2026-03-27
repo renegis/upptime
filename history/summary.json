@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.renegis.cz.ico",
     "slug": "renegis",
     "status": "down",
-    "uptime": "83.18%",
+    "uptime": "83.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "61.97%",
+    "uptimeYear": "61.69%",
     "time": 649,
-    "timeDay": 461,
-    "timeWeek": 524,
+    "timeDay": 528,
+    "timeWeek": 523,
     "timeMonth": 701,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2026-03-26": 167,
+      "2026-03-27": 169,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -162,8 +163,7 @@
       "2025-07-04": 243,
       "2025-05-11": 15,
       "2025-04-25": 17,
-      "2025-03-28": 18,
-      "2025-03-27": 40
+      "2025-03-28": 18
     }
   },
   {
@@ -174,13 +174,13 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.77%",
     "time": 731,
-    "timeDay": 663,
-    "timeWeek": 746,
-    "timeMonth": 718,
+    "timeDay": 730,
+    "timeWeek": 744,
+    "timeMonth": 723,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2026-03-19": 409,
@@ -189,8 +189,7 @@
       "2025-08-06": 29,
       "2025-07-04": 243,
       "2025-04-25": 17,
-      "2025-03-28": 18,
-      "2025-03-27": 40
+      "2025-03-28": 18
     }
   },
   {
@@ -199,18 +198,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roubicek.net.ico",
     "slug": "roubicek-net",
     "status": "down",
-    "uptime": "82.61%",
+    "uptime": "82.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "61.97%",
-    "time": 535,
-    "timeDay": 379,
-    "timeWeek": 480,
-    "timeMonth": 478,
-    "timeYear": 544,
+    "uptimeYear": "61.70%",
+    "time": 536,
+    "timeDay": 520,
+    "timeWeek": 489,
+    "timeMonth": 482,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2026-03-26": 167,
+      "2026-03-27": 169,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -355,8 +355,7 @@
       "2025-08-06": 28,
       "2025-07-04": 242,
       "2025-04-25": 16,
-      "2025-03-28": 17,
-      "2025-03-27": 39
+      "2025-03-28": 17
     }
   }
 ]
